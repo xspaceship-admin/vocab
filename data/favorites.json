@@ -1,0 +1,20 @@
+[
+  {
+    "id": "fav-1790068787523",
+    "term": "Caucus",
+    "category": "favorite",
+    "definition": "A meeting of members of a political party or group to discuss policy or choose candidates.",
+    "example": "The senators held a **caucus** to decide who would run for the leadership position.",
+    "difficulty": 2,
+    "addedAt": "2026-09-22"
+  },
+  {
+    "id": "fav-1790248299563",
+    "term": "gridlock",
+    "category": "favorite",
+    "definition": "A situation where traffic is so heavy that vehicles cannot move at all, or a situation where no progress can be made because of disagreement.",
+    "example": "The accident caused total **gridlock** on the highway during rush hour.",
+    "difficulty": 2,
+    "addedAt": "2026-09-24"
+  }
+]

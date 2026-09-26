@@ -1,0 +1,97 @@
+{
+  "lastArticleDate": "2026-09-26",
+  "currentArticle": {
+    "title": "Banned Reporters Return to the White House Briefing Room",
+    "body": "Television crews from three major news outlets are back at their usual posts inside the White House after a federal judge ordered the ban against them to be lifted. The outlets had been barred from covering the president's daily activities, a move critics called **nefarious**, suggesting it was designed to punish unfavorable coverage rather than protect any legitimate interest.\n\nFor weeks, viewers who tuned in expecting familiar reporters at the podium may have found themselves drawing a blank, wondering why certain **iconic** faces of White House journalism had suddenly vanished from their screens. The absence created a strange kind of **gridlock** in the news cycle, with press briefings feeling incomplete and reporters from other networks struggling to fill the silence left behind.\n\nThe journalists affected are known for their **peripatetic** work, following the president from Washington to overseas summits and back again, often with little notice. Losing access to the White House didn't just mean missing a few press conferences; it threatened their ability to do the job that defines their careers.\n\nSome smaller outlets reportedly struggled financially during the standoff, as advertisers and viewers drifted toward networks still allowed inside. For freelance journalists and support staff tied to these teams, simply trying to **make ends meet** became harder without regular assignments at the White House.\n\nThe judge's ruling restores normal operations, meaning the banned reporters can resume asking questions and filing stories from the briefing room immediately. According to BBC Culture, the decision represents a significant moment in the ongoing tension between the current administration and parts of the American press corps.\n\nWhile the ban has been lifted, the episode leaves lingering questions about how future disputes between the White House and journalists might be handled, and whether similar restrictions could resurface. For now, though, the cameras are rolling again, and the reporters are back where they belong.",
+    "quiz": [
+      {
+        "wordId": "idiom-25",
+        "type": "mc",
+        "question": "In the article, what does it mean when viewers 'drew a blank' about the missing reporters?",
+        "options": [
+          "They could not remember or figure out why the reporters were gone",
+          "They filled out an empty form",
+          "They wrote a blank check for the news outlet",
+          "They stared at a blank television screen on purpose"
+        ],
+        "answerIndex": 0,
+        "term": "draw a blank"
+      },
+      {
+        "wordId": "sat-43",
+        "type": "fill",
+        "fillSentence": "Critics called the ban against the news outlets _____, suggesting it was meant to punish unfavorable coverage.",
+        "term": "nefarious",
+        "answer": "nefarious",
+        "options": [
+          "nefarious",
+          "gridlock",
+          "peripatetic",
+          "make ends meet"
+        ]
+      },
+      {
+        "wordId": "phrase-3",
+        "type": "mc",
+        "question": "What does 'make ends meet' mean as used in the article about freelance staff?",
+        "options": [
+          "To have enough money to cover basic costs",
+          "To connect two ends of a rope",
+          "To finish a project on time",
+          "To meet with news editors regularly"
+        ],
+        "answerIndex": 0,
+        "term": "make ends meet"
+      },
+      {
+        "wordId": "concept-culture-12",
+        "type": "fill",
+        "fillSentence": "Viewers wondered why certain _____ faces of White House journalism had disappeared from their screens.",
+        "term": "iconic",
+        "answer": "iconic",
+        "options": [
+          "peripatetic",
+          "draw a blank",
+          "gridlock",
+          "iconic"
+        ]
+      },
+      {
+        "wordId": "fav-1790248299563",
+        "type": "mc",
+        "question": "What does 'gridlock' refer to in the context of the news cycle described in the article?",
+        "options": [
+          "A situation where progress is blocked or things feel stuck",
+          "A type of traffic light system in Washington",
+          "A grid used for organizing television schedules",
+          "A locked filing cabinet in the newsroom"
+        ],
+        "answerIndex": 0,
+        "term": "gridlock"
+      },
+      {
+        "wordId": "sat-52",
+        "type": "fill",
+        "fillSentence": "The journalists are known for their _____ work, traveling with the president to different locations around the world.",
+        "term": "peripatetic",
+        "answer": "peripatetic",
+        "options": [
+          "iconic",
+          "draw a blank",
+          "gridlock",
+          "peripatetic"
+        ]
+      }
+    ],
+    "topic": "culture",
+    "source": {
+      "name": "BBC Culture",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 25 Sep 2026 18:36:30 GMT"
+    },
+    "id": "1f61e0f2-ec85-47cb-a707-c7bcdff26778"
+  },
+  "completedToday": false,
+  "results": null,
+  "regenCount": 0
+}

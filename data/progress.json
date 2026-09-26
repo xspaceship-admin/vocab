@@ -1,0 +1,466 @@
+{
+  "words": {
+    "idiom-1": {
+      "exposures": 2,
+      "correct": 1,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "idiom-4": {
+      "exposures": 3,
+      "correct": 1,
+      "incorrect": 1,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "idiom-7": {
+      "exposures": 3,
+      "correct": 2,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "idiom-10": {
+      "exposures": 4,
+      "correct": 3,
+      "incorrect": 1,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "idiom-13": {
+      "exposures": 3,
+      "correct": 2,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "idiom-16": {
+      "exposures": 4,
+      "correct": 3,
+      "incorrect": 1,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "sat-1": {
+      "exposures": 2,
+      "correct": 0,
+      "incorrect": 1,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "phrase-1": {
+      "exposures": 2,
+      "correct": 1,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "concept-culture-1": {
+      "exposures": 2,
+      "correct": 0,
+      "incorrect": 1,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "idiom-19": {
+      "exposures": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "phrase-4": {
+      "exposures": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "sat-4": {
+      "exposures": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "fav-1790068787523": {
+      "exposures": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "concept-technology-1": {
+      "exposures": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "sat-7": {
+      "exposures": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "idiom-12": {
+      "exposures": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "sat-29": {
+      "exposures": 4,
+      "correct": 3,
+      "incorrect": 1,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "phrase-21": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "concept-politics-1": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "sat-9": {
+      "exposures": 5,
+      "correct": 4,
+      "incorrect": 1,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "idiom-22": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "sat-30": {
+      "exposures": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "fav-1790073021464": {
+      "exposures": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    "phrase-29": {
+      "exposures": 1,
+      "correct": 0,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "idiom-27": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "sat-40": {
+      "exposures": 5,
+      "correct": 4,
+      "incorrect": 1,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "phrase-24": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "concept-technology-18": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "sat-38": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "sat-36": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "sat-44": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "idiom-2": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "idiom-26": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "idiom-23": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "phrase-2": {
+      "exposures": 6,
+      "correct": 5,
+      "incorrect": 1,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "idiom-3": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "phrase-16": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "phrase-15": {
+      "exposures": 8,
+      "correct": 4,
+      "incorrect": 4,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "concept-culture-3": {
+      "exposures": 7,
+      "correct": 5,
+      "incorrect": 2,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "idiom-20": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "sat-49": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "concept-technology-7": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "sat-6": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "phrase-17": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "idiom-15": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "sat-2": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "concept-politics-6": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "sat-50": {
+      "exposures": 3,
+      "correct": 3,
+      "incorrect": 0,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "sat-21": {
+      "exposures": 4,
+      "correct": 3,
+      "incorrect": 1,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "concept-technology-10": {
+      "exposures": 2,
+      "correct": 2,
+      "incorrect": 0,
+      "streak": 2,
+      "mastered": false,
+      "masteredAt": null,
+      "lastSeen": "2026-09-26"
+    },
+    "sat-34": {
+      "exposures": 1,
+      "correct": 1,
+      "incorrect": 0,
+      "streak": 1,
+      "mastered": false,
+      "masteredAt": null,
+      "lastSeen": "2026-09-26"
+    }
+  },
+  "xp": 408,
+  "streakDays": 2,
+  "lastActiveDate": "2026-09-24"
+}

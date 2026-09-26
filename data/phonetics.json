@@ -1,0 +1,515 @@
+{
+  "assiduous": {
+    "text": "/əˈsɪdʒuəs/"
+  },
+  "bipartisan": {
+    "text": "/ˌbaɪˈpɑːrtɪzən/"
+  },
+  "surreptitious": {
+    "text": "/ˌsɝːəpˈtɪʃəs/"
+  },
+  "get a taste of your own medicine": {
+    "text": "/gɛɾə ˈteɪst əv jɔr oʊn ˈmɛdəsən/"
+  },
+  "taciturn": {
+    "text": "/ˈtæsɪˌtɝn/"
+  },
+  "once in a blue moon": {
+    "text": "/wʌns ɪn ə blu mun/"
+  },
+  "bark up the wrong tree": {
+    "text": "/bɑrk ʌp ðə rɔŋ tri/"
+  },
+  "against the clock": {
+    "text": "/əˈɡɛnst ðə ˈklɑːk/"
+  },
+  "tenuous": {
+    "text": "/ˈtɛnjuəs/"
+  },
+  "perspicacious": {
+    "text": "/ˌpɜrspɪˈkeɪʃəs/"
+  },
+  "hit the ground running": {
+    "text": "/hɪt ðə ˈɡraʊnd ˈrʌnɪŋ/"
+  },
+  "disruptive innovation": {
+    "text": "/dɪsˈrʌptɪv ˌɪnəˈveɪʃən/"
+  },
+  "cross that bridge when you come to it": {
+    "text": "/kɹɔs ðæt bɹɪdʒ wɛn juː kʌm tuː ɪt/"
+  },
+  "gridlock": {
+    "text": "/ˈgrɪdˌlɑk/"
+  },
+  "arbitrary": {
+    "text": "/ˈɑːrbɪtrɛri/"
+  },
+  "austerity": {
+    "text": "/ɔːˈstɛrəti/"
+  },
+  "benevolent": {
+    "text": "/bəˈnɛvələnt/"
+  },
+  "cacophony": {
+    "text": "/kəˈkɑfəni/"
+  },
+  "cogent": {
+    "text": "/ˈkoʊdʒənt/"
+  },
+  "encryption": {
+    "text": "/ɪnˈkrɪpʃən/"
+  },
+  "garrulous": {
+    "text": "/ˈɡærələs/"
+  },
+  "get the ball rolling": {
+    "text": "/ɡɛt ðə bɔl ˈroʊlɪŋ/"
+  },
+  "hit the sack": {
+    "text": "/hɪt ðə sæk/"
+  },
+  "incumbent": {
+    "text": "/ɪnˈkʌmbənt/"
+  },
+  "legislation": {
+    "text": "/ˌlɛdʒɪˈsleɪʃən/"
+  },
+  "loquacious": {
+    "text": "/loʊˈkweɪʃəs/"
+  },
+  "mendacious": {
+    "text": "/mɛnˈdeɪʃəs/"
+  },
+  "obfuscate": {
+    "text": "/ˈɑːbfəskeɪt/"
+  },
+  "ostensible": {
+    "text": "/ɑːˈstɛnsəbəl/"
+  },
+  "plot twist": {
+    "text": "/plɑːt twɪst/"
+  },
+  "quixotic": {
+    "text": "/kwɪkˈsɑtɪk/"
+  },
+  "retrospective": {
+    "text": "/ˌrɛtɹəˈspɛktɪv/"
+  },
+  "sanguine": {
+    "text": "/ˈsæŋɡwɪn/"
+  },
+  "startup": {
+    "text": "/ˈstɑrtˌʌp/"
+  },
+  "superfluous": {
+    "text": "/suːˈpɜrfluəs/"
+  },
+  "trenchant": {
+    "text": "/ˈtrɛntʃənt/"
+  },
+  "vindicate": {
+    "text": "/ˈvɪndɪˌkeɪt/"
+  },
+  "amendment": {
+    "text": "/əˈmɛndmənt/"
+  },
+  "artificial intelligence": {
+    "text": "/ˌɑːrtɪˈfɪʃəl ɪnˈtɛlɪdʒəns/"
+  },
+  "austere": {
+    "text": "/ɔˈstɪr/"
+  },
+  "call it a day": {
+    "text": "/kɔl ɪt ə deɪ/"
+  },
+  "come rain or shine": {
+    "text": "/kʌm ˈreɪn ɔr ʃaɪn/"
+  },
+  "critically acclaimed": {
+    "text": "/ˌkrɪtɪkəli əˈkleɪmd/"
+  },
+  "data breach": {
+    "text": "/ˈdeɪɾə ˈbriːtʃ/"
+  },
+  "draw a blank": {
+    "text": "/drɔː ə blæŋk/"
+  },
+  "genre": {
+    "text": "/ˈʒɑnrə/"
+  },
+  "hegemony": {
+    "text": "/hɪˈdʒɛməˌni/"
+  },
+  "hold your horses": {
+    "text": "/hoʊld jɔr ˈhɔrsəz/"
+  },
+  "jump on the bandwagon": {
+    "text": "/dʒʌmp ɑn ðə ˈbændˌwægən/"
+  },
+  "let the cat out of the bag": {
+    "text": "/lɛt ðə kæt aʊt əv ðə bæg/"
+  },
+  "make ends meet": {
+    "text": "/meɪk ˈɛndz ˈmiːt/"
+  },
+  "nefarious": {
+    "text": "/nɪˈfɛriəs/"
+  },
+  "on the same page": {
+    "text": "/ɑn ðə seɪm peɪdʒ/"
+  },
+  "parsimonious": {
+    "text": "/ˌpɑːrsəˈmoʊniəs/"
+  },
+  "pop culture": {
+    "text": "/ˈpɑp ˌkʌltʃɚ/"
+  },
+  "read between the lines": {
+    "text": "/ˌriːd bɪˈtwiːn ðə ˈlaɪnz/"
+  },
+  "spill the beans": {
+    "text": "/spɪl ðə binz/"
+  },
+  "streaming platform": {
+    "text": "/ˈstriːmɪŋ ˈplætfɔrm/"
+  },
+  "touch base": {
+    "text": "/ˈtʌtʃ ˈbeɪs/"
+  },
+  "veto": {
+    "text": "/ˈviːtoʊ/"
+  },
+  "zealous": {
+    "text": "/ˈzɛləs/"
+  },
+  "autonomous": {
+    "text": "/ɔːˈtɑːnəməs/"
+  },
+  "biometric": {
+    "text": "/ˌbaɪoʊˈmɛtrɪk/"
+  },
+  "choreography": {
+    "text": "/ˌkɔːriˈɑːɡrəfi/"
+  },
+  "cost an arm and a leg": {
+    "text": "/kɔst ən ˈɑrm ənd ə ˈlɛg/"
+  },
+  "adaptation": {
+    "text": "/ˌædæpˈteɪʃən/"
+  },
+  "candid": {
+    "text": "/ˈkændɪd/"
+  },
+  "constituency": {
+    "text": "/kənˈstɪtʃuənsi/"
+  },
+  "dichotomy": {
+    "text": "/daɪˈkɑtəmi/"
+  },
+  "ephemeral": {
+    "text": "/ɪˈfɛmərəl/"
+  },
+  "filibuster": {
+    "text": "/ˌfɪləˈbʌstɚ/"
+  },
+  "get the hang of it": {
+    "text": "/ɡɛt ðə ˈhæŋ əv ɪt/"
+  },
+  "impeachment": {
+    "text": "/ɪmˈpitʃmənt/"
+  },
+  "keep an eye on": {
+    "text": "/kip ən aɪ ɑn/"
+  },
+  "magnanimous": {
+    "text": "/mæɡˈnænɪməs/"
+  },
+  "monopoly": {
+    "text": "/məˈnɑpəli/"
+  },
+  "open-source": {
+    "text": "/ˈoʊpənˈsɔːrs/"
+  },
+  "pervasive": {
+    "text": "/pɚˈveɪsɪv/"
+  },
+  "recalcitrant": {
+    "text": "/rɪˈkælsɪtrənt/"
+  },
+  "satire": {
+    "text": "/ˈsætaɪər/"
+  },
+  "sycophant": {
+    "text": "/ˈsɪkəfænt/"
+  },
+  "throw in the towel": {
+    "text": "/θroʊ ɪn ðə ˈtaʊəl/"
+  },
+  "bandwidth": {
+    "text": "/ˈbændwɪdθ/"
+  },
+  "antitrust": {
+    "text": "/ˌæntaɪˈtrʌst/"
+  },
+  "bite the bullet": {
+    "text": "/baɪt ðə ˈbʊlɪt/"
+  },
+  "cultural phenomenon": {
+    "text": "/ˌkʌltʃərəl fəˈnɑːməˌnɑːn/"
+  },
+  "box office": {
+    "text": "/ˈbɑːksˌɑːfɪs/"
+  },
+  "keep something at bay": {
+    "text": "/kip ˈsʌmθɪŋ æt ˈbeɪ/"
+  },
+  "memoir": {
+    "text": "/ˈmɑːmwɑːr/"
+  },
+  "perfunctory": {
+    "text": "/pərˈfʌŋktəri/"
+  },
+  "pusillanimous": {
+    "text": "/ˌpjuːsəˈlænəməs/"
+  },
+  "sanctions": {
+    "text": "/ˈsæŋkʃənz/"
+  },
+  "take the plunge": {
+    "text": "/teɪk ðə plʌndʒ/"
+  },
+  "capricious": {
+    "text": "/kəˈprɪʃəs/"
+  },
+  "diligent": {
+    "text": "/ˈdɪlɪdʒənt/"
+  },
+  "geopolitics": {
+    "text": "/ˌdʒiːoʊpəˈlɪtɪks/"
+  },
+  "in the heat of the moment": {
+    "text": "/ɪnðəˈhiːtəvðəˈmoʊmənt/"
+  },
+  "machine learning": {
+    "text": "/məˈʃiːn ˈlɜrnɪŋ/"
+  },
+  "obsequious": {
+    "text": "/əbˈsiːkwiəs/"
+  },
+  "piece of cake": {
+    "text": "/ˌpiːsəvˈkeɪk/"
+  },
+  "regulation": {
+    "text": "/ˌrɛɡjəˈleɪʃən/"
+  },
+  "sovereignty": {
+    "text": "/ˈsɑvrɪnti/"
+  },
+  "wing it": {
+    "text": "/wɪŋ ɪt/"
+  },
+  "bite off more than you can chew": {
+    "text": "/baɪt ɔf mɔr ðæn ju kæn tʃu/"
+  },
+  "cybersecurity": {
+    "text": "/ˌsaɪbərsɪˈkjʊrəti/"
+  },
+  "esoteric": {
+    "text": "/ˌɛsəˈtɛrɪk/"
+  },
+  "go the extra mile": {
+    "text": "/ˌɡoʊ ðə ˈɛkstrə ˈmaɪl/"
+  },
+  "let bygones be bygones": {
+    "text": "/lɛt ˈbaɪɡɑnz bi ˈbaɪɡɑnz/"
+  },
+  "put it off": {
+    "text": "/pʊɾɪˈɾɔf/"
+  },
+  "summit": {
+    "text": "/ˈsʌmɪt/"
+  },
+  "viral": {
+    "text": "/ˈvaɪrəl/"
+  },
+  "coalition": {
+    "text": "/ˌkoʊəˈlɪʃən/"
+  },
+  "diplomacy": {
+    "text": "/dɪˈploʊməsi/"
+  },
+  "get cold feet": {
+    "text": "/ɡɛt koʊld fiːt/"
+  },
+  "break the ice": {
+    "text": "/breɪk ðə aɪs/"
+  },
+  "under the weather": {
+    "text": "/ˌʌndɚ ðə ˈwɛðɚ/"
+  },
+  "hit the nail on the head": {
+    "text": "/hɪt ðə neɪl ɑn ðə hɛd/"
+  },
+  "burn the midnight oil": {
+    "text": "/bɝn ðə ˈmɪdˌnaɪt ɔɪl/"
+  },
+  "the ball is in your court": {
+    "text": "/ðə bɔl ɪz ɪn jʊr kɔrt/"
+  },
+  "cut corners": {
+    "text": "/kʌt ˈkɔrnərz/"
+  },
+  "back to the drawing board": {
+    "text": "/ˌbæk tə ðə ˈdrɔɪŋ bɔrd/"
+  },
+  "beat around the bush": {
+    "text": "/biːt əˈraʊnd ðə bʊʃ/"
+  },
+  "in the same boat": {
+    "text": "/ɪnðəˈseɪmboʊt/"
+  },
+  "kill two birds with one stone": {
+    "text": "/kɪl tu bɜrdz wɪð wʌn stoʊn/"
+  },
+  "the last straw": {
+    "text": "/ðə læst strɔ/"
+  },
+  "burn bridges": {
+    "text": "/bɝn ˈbrɪdʒɪz/"
+  },
+  "cut to the chase": {
+    "text": "/ˌkʌt tə ðə ˈtʃeɪs/"
+  },
+  "face the music": {
+    "text": "/feɪs ðə ˈmjuzɪk/"
+  },
+  "ubiquitous": {
+    "text": "/juːˈbɪkwɪtəs/"
+  },
+  "pragmatic": {
+    "text": "/præɡˈmætɪk/"
+  },
+  "ambiguous": {
+    "text": "/æmˈbɪɡjuəs/"
+  },
+  "meticulous": {
+    "text": "/məˈtɪkjələs/"
+  },
+  "resilient": {
+    "text": "/rɪˈzɪljənt/"
+  },
+  "eloquent": {
+    "text": "/ˈɛləkwənt/"
+  },
+  "frugal": {
+    "text": "/ˈfruːɡəl/"
+  },
+  "vitriolic": {
+    "text": "/ˌvɪtriˈɑːlɪk/"
+  },
+  "pernicious": {
+    "text": "/pɚˈnɪʃəs/"
+  },
+  "laconic": {
+    "text": "/ləˈkɑːnɪk/"
+  },
+  "vicissitude": {
+    "text": "/vɪˈsɪsɪˌtuːd/"
+  },
+  "verisimilitude": {
+    "text": "/ˌvɛrəsɪˈmɪlətud/"
+  },
+  "obstreperous": {
+    "text": "/əbˈstrɛpərəs/"
+  },
+  "mellifluous": {
+    "text": "/məˈlɪfluəs/"
+  },
+  "inexorable": {
+    "text": "/ɪnˈɛksərəbəl/"
+  },
+  "peripatetic": {
+    "text": "/ˌpɛrɪpəˈtɛtɪk/"
+  },
+  "abstruse": {
+    "text": "/æbˈstruːs/"
+  },
+  "sagacious": {
+    "text": "/səˈɡeɪʃəs/"
+  },
+  "give someone the benefit of the doubt": {
+    "text": "/ɡɪv ˈsʌmˌwʌn ðə ˈbɛnəfɪt əv ðə ˈdaʊt/"
+  },
+  "on the fence": {
+    "text": "/ɑːn ðə fɛns/"
+  },
+  "sit tight": {
+    "text": "/sɪtˈtaɪt/"
+  },
+  "step up to the plate": {
+    "text": "/stɛpˈʌp tə ðə ˈpleɪt/"
+  },
+  "run out of time": {
+    "text": "/rʌn ˈaʊt əv ˈtaɪm/"
+  },
+  "take it easy": {
+    "text": "/teɪk ɪt ˈiːzi/"
+  },
+  "in a nutshell": {
+    "text": "/ɪnəˈnʌtʃɛl/"
+  },
+  "on top of things": {
+    "text": "/ɑnˈtɑp əv θɪŋz/"
+  },
+  "at the drop of a hat": {
+    "text": "/ət ðə ˈdrɑp əv ə ˈhæt/"
+  },
+  "go back on your word": {
+    "text": "/ˌgoʊˈbæk ɑn jər ˈwɜrd/"
+  },
+  "raise the bar": {
+    "text": "/ˈreɪz ðə ˈbɑr/"
+  },
+  "see eye to eye": {
+    "text": "/ˌsi aɪ tə ˈaɪ/"
+  },
+  "algorithm": {
+    "text": "/ˈælgərɪðəm/"
+  },
+  "cloud computing": {
+    "text": "/klaʊd kəmˈpjuːtɪŋ/"
+  },
+  "venture capital": {
+    "text": "/ˈvɛntʃɚ ˈkæpɪɾl̩/"
+  },
+  "privacy policy": {
+    "text": "/ˈpraɪveɪsi ˈpɑːləsi/"
+  },
+  "referendum": {
+    "text": "/ˌrɛfəˈrɛndəm/"
+  },
+  "lobbying": {
+    "text": "/ˈlɑbiɪŋ/"
+  },
+  "gerrymandering": {
+    "text": "/ˈdʒɛriˌmændərɪŋ/"
+  },
+  "blockbuster": {
+    "text": "/ˈblɑːkˌbʌstɚ/"
+  },
+  "ensemble cast": {
+    "text": "/ɑːnˈsɑːmbəl kæst/"
+  },
+  "nostalgia": {
+    "text": "/nɑˈstældʒə/"
+  },
+  "iconic": {
+    "text": "/aɪˈkɑːnɪk/"
+  },
+  "collaboration": {
+    "text": "/ˌkəˌlæbəˈreɪʃən/"
+  },
+  "Caucus": {
+    "text": "/ˈkɔkəs/"
+  }
+}
