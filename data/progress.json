@@ -442,15 +442,24 @@
       "lastSeen": "2026-09-26"
     },
     "concept-technology-10": {
-      "exposures": 2,
-      "correct": 2,
+      "exposures": 3,
+      "correct": 3,
       "incorrect": 0,
-      "streak": 2,
+      "streak": 3,
+      "mastered": true,
+      "masteredAt": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "sat-34": {
+      "exposures": 3,
+      "correct": 2,
+      "incorrect": 1,
+      "streak": 1,
       "mastered": false,
       "masteredAt": null,
       "lastSeen": "2026-09-26"
     },
-    "sat-34": {
+    "idiom-28": {
       "exposures": 1,
       "correct": 1,
       "incorrect": 0,
@@ -460,7 +469,7 @@
       "lastSeen": "2026-09-26"
     }
   },
-  "xp": 408,
+  "xp": 414,
   "streakDays": 2,
   "lastActiveDate": "2026-09-24"
 }

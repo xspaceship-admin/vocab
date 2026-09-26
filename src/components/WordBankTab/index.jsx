@@ -42,7 +42,7 @@ function FilterSection({ title, options, value, onChange }) {
 // Shows every favorite (always, even untested) plus every built-in bank word
 // that has come up in a quiz at least once. A left sidebar lets you search
 // it, filter by type/status, and sort it.
-export default function WordBankTab() {
+export default function WordBankTab({ modalOpen, onOpenModal, onCloseModal, filtersOpen, onCloseFilters, onFilterCountChange }) {
   const { removeFavorite } = useFavorites();
   const [words, setWords] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -51,7 +51,6 @@ export default function WordBankTab() {
   const [category, setCategory] = useState('all');
   const [status, setStatus] = useState('not-mastered');
   const [sort, setSort] = useState('memory');
-  const [modalOpen, setModalOpen] = useState(false);
 
   const load = async () => {
     setLoading(true);
@@ -114,11 +113,15 @@ export default function WordBankTab() {
     setWords((prev) => prev.map((w) => (w.id === id ? { ...w, archived: archive } : w)));
   };
 
+  const filterCount = [category !== 'all' ? 1 : 0, status !== 'all' ? 1 : 0].reduce((a, b) => a + b, 0);
+
+  useEffect(() => { onFilterCountChange?.(filterCount); }, [filterCount]);
+
   return (
     <div className="wordbank-layout">
       <aside className="wordbank-nav">
         <div className="wordbank-nav-section">
-          <button className="nav-btn" style={{ width: '100%' }} onClick={() => setModalOpen(true)}>
+          <button className="nav-btn" style={{ width: '100%' }} onClick={onOpenModal}>
             Add a word
           </button>
         </div>
@@ -131,26 +134,51 @@ export default function WordBankTab() {
             onChange={(e) => setSearchInput(e.target.value)}
           />
         </div>
-        <FilterSection title="Type" options={WORD_BANK_CATEGORIES} value={category} onChange={setCategory} />
-        <FilterSection title="Status" options={WORD_BANK_STATUSES} value={status} onChange={setStatus} />
-        <div className="wordbank-nav-section">
-          <h3 className="defs-panel-title">Sort by</h3>
-          <div className="wordbank-filter-list">
-            <button className={`wordbank-filter-btn${sort === 'memory' ? ' active' : ''}`} onClick={() => setSort('memory')}>
-              Least remembered
-            </button>
-            <button className={`wordbank-filter-btn${sort === 'alpha' ? ' active' : ''}`} onClick={() => setSort('alpha')}>
-              A–Z
-            </button>
-            <button className={`wordbank-filter-btn${sort === 'difficulty' ? ' active' : ''}`} onClick={() => setSort('difficulty')}>
-              Difficulty
-            </button>
-            <button className={`wordbank-filter-btn${sort === 'newest' ? ' active' : ''}`} onClick={() => setSort('newest')}>
-              Newest
-            </button>
+        <div className="wordbank-filters-desktop">
+          <FilterSection title="Type" options={WORD_BANK_CATEGORIES} value={category} onChange={setCategory} />
+          <FilterSection title="Status" options={WORD_BANK_STATUSES} value={status} onChange={setStatus} />
+          <div className="wordbank-nav-section">
+            <h3 className="defs-panel-title">Sort by</h3>
+            <div className="wordbank-filter-list">
+              <button className={`wordbank-filter-btn${sort === 'memory' ? ' active' : ''}`} onClick={() => setSort('memory')}>
+                Least remembered
+              </button>
+              <button className={`wordbank-filter-btn${sort === 'alpha' ? ' active' : ''}`} onClick={() => setSort('alpha')}>
+                A–Z
+              </button>
+              <button className={`wordbank-filter-btn${sort === 'difficulty' ? ' active' : ''}`} onClick={() => setSort('difficulty')}>
+                Difficulty
+              </button>
+              <button className={`wordbank-filter-btn${sort === 'newest' ? ' active' : ''}`} onClick={() => setSort('newest')}>
+                Newest
+              </button>
+            </div>
           </div>
         </div>
       </aside>
+
+      {/* Mobile filter bottom sheet */}
+      {filtersOpen && (
+        <>
+          <div className="sheet-backdrop" onClick={onCloseFilters} />
+          <div className="sheet">
+            <div className="sheet-handle" />
+            <FilterSection title="Type" options={WORD_BANK_CATEGORIES} value={category} onChange={setCategory} />
+            <FilterSection title="Status" options={WORD_BANK_STATUSES} value={status} onChange={setStatus} />
+            <div className="wordbank-nav-section">
+              <h3 className="defs-panel-title">Sort by</h3>
+              <div className="wordbank-filter-list">
+                {[['memory','Least remembered'],['alpha','A–Z'],['difficulty','Difficulty'],['newest','Newest']].map(([k, lbl]) => (
+                  <button key={k} className={`wordbank-filter-btn${sort === k ? ' active' : ''}`} onClick={() => setSort(k)}>{lbl}</button>
+                ))}
+              </div>
+            </div>
+            <button className="nav-btn" style={{ width: '100%', marginTop: 16 }} onClick={onCloseFilters}>
+              Done
+            </button>
+          </div>
+        </>
+      )}
       <div className="wordbank-main">
         {loading && <div className="spinner" />}
         {error && <div className="card error-box">{error.message}</div>}
@@ -161,7 +189,7 @@ export default function WordBankTab() {
         )}
         {!loading && !error && filtered.map((w) => <WordCard key={w.id} word={w} onRemove={handleRemove} onArchive={handleArchive} />)}
       </div>
-      <AddWordModal open={modalOpen} onClose={() => setModalOpen(false)} onAdded={load} />
+      <AddWordModal open={modalOpen} onClose={onCloseModal} onAdded={load} />
     </div>
   );
 }

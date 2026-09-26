@@ -1831,5 +1831,100 @@
       }
     ],
     "results": null
+  },
+  {
+    "id": "96745343-a097-420f-a8eb-d0e632616959",
+    "date": "2026-09-26",
+    "article": {
+      "title": "Glasgow Council Hits Pause on Controversial Staff Shake-Up",
+      "topic": "politics",
+      "source": {
+        "name": "BBC Politics",
+        "link": "https://www.bbc.co.uk/news/articles/c6kg090rx2kdo?at_medium=RSS&at_campaign=rss",
+        "pubDate": "Fri, 25 Sep 2026 19:10:27 GMT"
+      },
+      "body": "Glasgow City Council has stepped back from a plan that would have seen it fire and rehire around 23,000 workers under new pay terms, according to BBC Politics. The move had threatened to create a huge **gridlock** between the council and its staff, with unions warning that thousands of workers could see their contracts torn up and replaced overnight.\n\nInstead of pushing ahead, council leaders have agreed to return to the negotiating table. Talks with three major unions are expected to resume early next week, giving both sides a chance to search for a new pay deal that avoids mass disruption to public services in the city.\n\nUnion representatives say the council may have tried to **bite off more than you can chew** by attempting to rewrite pay arrangements for so many employees at once. Reorganising the contracts of tens of thousands of workers is a massive undertaking, and critics argue it was never going to be simple or quick.\n\nSupporters of the pause say it shows a **sagacious** approach from council leaders, who appear to have recognised that rushing such a large decision could backfire. By choosing to slow down and talk instead of forcing changes through, the council may avoid a damaging standoff with its workforce.\n\nSome observers have compared the tense back-and-forth to wider **geopolitics**, where large institutions must carefully balance power, money, and public trust. Just as nations negotiate to avoid conflict, the council and unions now face the delicate task of finding common ground without either side losing face.\n\nCouncil officials insist they are not trying to **obfuscate** their intentions and say they genuinely want a fair outcome for staff. They stress that pausing the plan is not a retreat but a genuine effort to listen to workers' concerns before any final decision is made.\n\nFor now, both sides say they are willing to **go the extra mile** to reach an agreement that protects services for residents while addressing staff worries about pay and job security. Whether that goodwill survives next week's talks remains to be seen, but for the moment, Glasgow's 23,000 council workers can breathe a little easier."
+    },
+    "quiz": [
+      {
+        "wordId": "idiom-21",
+        "type": "mc",
+        "question": "In the article, what does 'go the extra mile' mean?",
+        "options": [
+          "To make a special extra effort to achieve something",
+          "To travel a long distance for work",
+          "To give up on a difficult task",
+          "To argue aggressively in negotiations"
+        ],
+        "answerIndex": 0,
+        "term": "go the extra mile"
+      },
+      {
+        "wordId": "sat-54",
+        "type": "fill",
+        "fillSentence": "Supporters of the pause say it shows a _____ approach from council leaders, who appear to have recognised that rushing such a large decision could backfire.",
+        "term": "sagacious",
+        "answer": "sagacious",
+        "options": [
+          "sagacious",
+          "geopolitics",
+          "bite off more than you can chew",
+          "obfuscate"
+        ]
+      },
+      {
+        "wordId": "phrase-23",
+        "type": "mc",
+        "question": "What does 'bite off more than you can chew' mean as used in the article?",
+        "options": [
+          "To take on more responsibility than you can handle",
+          "To eat too quickly during a meeting",
+          "To speak too loudly in public",
+          "To finish a task faster than expected"
+        ],
+        "answerIndex": 0,
+        "term": "bite off more than you can chew"
+      },
+      {
+        "wordId": "concept-politics-18",
+        "type": "fill",
+        "fillSentence": "Some observers have compared the tense back-and-forth to wider _____, where large institutions must carefully balance power, money, and public trust.",
+        "term": "geopolitics",
+        "answer": "geopolitics",
+        "options": [
+          "geopolitics",
+          "go the extra mile",
+          "obfuscate",
+          "sagacious"
+        ]
+      },
+      {
+        "wordId": "fav-1790248299563",
+        "type": "mc",
+        "question": "What does 'gridlock' mean in the article?",
+        "options": [
+          "A situation where no progress can be made because of disagreement",
+          "A type of traffic sign",
+          "A formal agreement between two parties",
+          "A sudden increase in wages"
+        ],
+        "answerIndex": 0,
+        "term": "gridlock"
+      },
+      {
+        "wordId": "sat-37",
+        "type": "fill",
+        "fillSentence": "Council officials insist they are not trying to _____ their intentions and say they genuinely want a fair outcome for staff.",
+        "term": "obfuscate",
+        "answer": "obfuscate",
+        "options": [
+          "obfuscate",
+          "sagacious",
+          "go the extra mile",
+          "bite off more than you can chew"
+        ]
+      }
+    ],
+    "results": null
   }
 ]

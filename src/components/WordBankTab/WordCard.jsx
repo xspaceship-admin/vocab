@@ -55,12 +55,12 @@ export default function WordCard({ word, onRemove, onArchive }) {
     <div className="card" style={{ border: '1px solid var(--ink)' }}>
       <div className="row" style={{ marginTop: 0, alignItems: 'flex-start' }}>
         <strong
-          className="defs-term"
+          className="defs-term wordcard-term"
           style={{ fontSize: 'var(--fs-lg)', fontFamily: 'var(--font-display)', display: 'block' }}
         >
           {word.term}
         </strong>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+        <div className="wordcard-header-right" style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
           <span className="topic-tag" style={{ margin: 0, borderRadius: 999 }}>
             {word.category}
           </span>
